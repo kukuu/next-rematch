@@ -1,6 +1,6 @@
 # Why NEXT.js
 
-i. Server-rendered by default
+1. Server-rendered by default
 
 2. Automatic code splitting for faster page loads
 
