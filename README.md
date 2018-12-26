@@ -1,3 +1,17 @@
+# Why NEXT.js
+
+i. Server-rendered by default
+
+2. Automatic code splitting for faster page loads
+
+3. Simple client-side routing (page based)
+
+4. Webpack-based dev environment which supports Hot Module Replacement (HMR)
+
+5. Able to implement with Express or any other Node.js HTTP server
+
+6. Customizable with your own Babel and Webpack configurations
+
 # Related resources
 
 i. learnnextjs.com
