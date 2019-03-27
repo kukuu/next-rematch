@@ -10,7 +10,7 @@
 
 5. Able to implement with Express or any other Node.js HTTP server
 
-6. Customizable with your own Babel and Webpack configurations
+6. Customizable with your own Babel (with presets) and Webpack configurations
 
 # Related resources
 
